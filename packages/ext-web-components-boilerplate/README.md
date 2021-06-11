@@ -12,7 +12,7 @@ ExtWebComponents requires the following to be installed before proceeding:
 * [NPM 6+](#getting_started_-_installing_node_and_npm)
 * [Java 8](#getting_started_-_installing_java)
 
-Also you can find the documents related to system configuration [ExtWebComponents](https://docs.sencha.com/extwebcomponents/7.0.0/guides/getting_started.html)
+Also you can find the documents related to system configuration [ExtWebComponents](https://docs.sencha.com/extwebcomponents/7.4.0/guides/getting_started.html)
 
 ## Quick Start
 
